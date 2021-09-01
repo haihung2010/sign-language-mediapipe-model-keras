@@ -1,0 +1,1 @@
+from model.trainSL import SIGNLANGUAGE
